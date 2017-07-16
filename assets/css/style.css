@@ -1,0 +1,16 @@
+.jumbotron {
+	background: #F5DEB3;
+	color: 696969;
+}
+
+body {
+	background: url("https://hdwallsource.com/img/2016/4/train-station-computer-wallpaper-49180-50842-hd-wallpapers.jpg");
+}
+
+.container {
+	opacity: 0.8;
+}
+
+.panel-heading {
+	background: 696969;
+}
